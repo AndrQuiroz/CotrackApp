@@ -1,0 +1,30 @@
+<resources>
+  <string name="app_name">Co-track.ai BETA</string>
+  <string name="action_settings">Settings</string>
+  <string name="main_start">Iniciar</string>
+  <string name="main_stop">Detener</string>
+  <string name="main_altitude">Altitud: %.1fm</string>
+  <string name="main_accuracy">Precision: %.1fm</string>
+  <string name="main_lat_long">%.8f, %.8f</string>
+  <string name="pref_update_frequency_key">PREF_UPDATED_FREQUENCY</string>
+  <string name="pref_update_frequency_label">Mapear ubicacion cada</string>
+  <string name="pref_update_frequency_summary">%d segundo</string>
+  <string name="notification_title">Grabando ubicacion</string>
+  <string name="notification_message">Abre la App si ya llegaste a casa.</string>
+  <string name="default_notification_channel_name">Estado de la grabacion</string>
+  <string name="default_notification_channel_description">Se muestra cuando la aplicacion esta grabando su ruta.</string>
+  <string name="battery_alert_dialog_text">La aplicacion consume una cantidad moderada de energia. Usala solo cuando debas salir de casa en el periodo de cuarentena.</string>
+  <string name="battery_alert_dialog_do_not_show_again">No mostrar de nuevo</string>
+  <string name="battery_alert_dialog_title">Un pequeño recordatorio</string>
+  <string name="main_permission_location_rationale">Esta es CoronApp tus datos nos seran de mucha utilidad, por favor otorga el permiso de ubicacion</string>
+  <string name="main_ok">OK</string>
+  <string name="main_permission_file_rationale">Necesitamos guardar sus datos en su memoria interna por favor otorgue el permiso.</string>
+  <string name="main_file_saved">Archivo guardado en</string>
+  <string name="main_share">Compartir</string>
+  <string name="main_share_title">Compartir a:</string>
+  <string name="waiting_for_location">Esperando ubicacion</string>
+  <string name="recording_stopped">Mapeo detenido</string>
+  <string name="boton">Ayuda</string>
+  <string name="contactos">Contactos</string>
+  <string name="configuraciones">Configuraciones</string>
+</resources>

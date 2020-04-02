@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">501077241645-cgk2a99vocnghqm71som357kt6oo1id8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cotrack-a8b69.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">501077241645</string>
+    <string name="google_api_key" translatable="false">AIzaSyDeQuQiHPEPDHkDTKJnLgrGfPtrotlOa6o</string>
+    <string name="google_app_id" translatable="false">1:501077241645:android:e443c62cb3bbc7fbabeda4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDeQuQiHPEPDHkDTKJnLgrGfPtrotlOa6o</string>
+    <string name="google_storage_bucket" translatable="false">cotrack-a8b69.appspot.com</string>
+    <string name="project_id" translatable="false">cotrack-a8b69</string>
+</resources>
